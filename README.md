@@ -1,6 +1,6 @@
 # 🔐 Random Password Generator
 
-**Автор:** Ваше ФИО 
+**Автор:** Гаспарян Артем
 **GitVerse** [https://giterse.ru/artemvellikiy777/artem75w8.git]
 
 ## 📖 Описание
